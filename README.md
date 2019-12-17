@@ -7,6 +7,7 @@ Em Sicredi Plataforma Digital: Av Ipiranga, 6681 Prédio 32, 8° andar - Porto A
 
 Programação:
 
+***************
 Machine Learning em modelos de Credit Scoring: um estudo de caso.
 
 Resumo: Cansada de sempre desenvolver modelos com Regressão Logística quando se trata de crédito? A fim de contornar (ou justificar seu uso), fiz um estudo de caso comparando esta técnica padrão com alguns modelos de Machine Learning: Árvore de Decisão, Random Forest, Bagging, Support Vector Machine e Adaboost. Até que ponto vale o investimento nestas novas tecnologias quando o cenário envolve concessão de crédito?
